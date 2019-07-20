@@ -1,0 +1,24 @@
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\tictoc server.exe.config
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\tictoc server.exe
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\tictoc server.pdb
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc server.csprojResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc_server.Form1.resources
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc_server.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc server.csproj.GenerateResource.Cache
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc server.exe
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\obj\Debug\tictoc server.pdb
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\MySql.Data.dll
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\Google.Protobuf.dll
+c:\users\anil\documents\visual studio 2015\Projects\tictoc server\tictoc server\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\tictoc server.exe.config
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc server.exe
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc server.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\tictoc server.exe
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\tictoc server.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\MySql.Data.dll
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\Google.Protobuf.dll
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\bin\Debug\MySql.Data.xml
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc server.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc_server.Form1.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc_server.Properties.Resources.resources
+C:\Users\ANIL\Desktop\Yeni klasör (3)\tictoc server\tictoc server\obj\Debug\tictoc server.csproj.GenerateResource.Cache
